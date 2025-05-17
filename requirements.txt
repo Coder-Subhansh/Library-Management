@@ -1,0 +1,11 @@
+# requirements.txt
+# Required packages for the Library Management System
+
+# For password hashing
+bcrypt>=3.2.0
+
+# For pretty-printing tables
+tabulate>=0.8.9
+
+# Testing framework
+pytest>=6.2.5
